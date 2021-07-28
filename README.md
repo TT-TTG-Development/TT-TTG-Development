@@ -6,7 +6,7 @@
 ## ─────── Kyran TT-TTG ───────
 
 - I’m currently learning Python
-- 2021 Goal: Finish my discord bot 
+- 2021 Goal: Finish my Discord bot (Kyran's Utilities)
 - Fun fact: I love to draw 
 
 ### Connect with me:

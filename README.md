@@ -36,11 +36,10 @@
 ➡️ [More Videos](https://www.youtube.com/channel/UCNEB1-mn65M_QiA6cLnBMBA)
 
 ---
-
 </details>
-<sumary>Top Coding Languages</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TT-TTG-Development&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <summary>:zap: GitHub Stats</summary>
+  
+![Kyrans's GitHub stats](https://github-readme-stats.vercel.app/api?username=TT-TTG-Development&show_icons=true&theme=dark)
 
 </details>
 

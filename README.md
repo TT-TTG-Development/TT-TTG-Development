@@ -37,19 +37,26 @@
 
 ---
 </details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
   
 ![Kyrans's GitHub stats](https://github-readme-stats.vercel.app/api?username=TT-TTG-Development&show_icons=true&theme=dark)
 
 </details>
 
 </details>
-  <summary>:zap: Coding Languages</summary>
+  <summary>Coding Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 </details>
 
+</details>
+<summary></summary>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+</details>
+  
 </details>
 
 [twitter]: https://twitter.com/KyranTT_TTG

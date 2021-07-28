@@ -1,7 +1,4 @@
-### Hi there, I'm Kyran TT-TTG 👋
-
-
-## ─────── Kyran TT-TTG ───────
+### ─────── Kyran TT-TTG ───────
 
 - I’m currently learning Python
 - 2021 Goal: Finish my Discord bot (Kyran's Utilities)

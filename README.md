@@ -37,6 +37,14 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Kyran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TT-TTG-Development&show_icons=true&hide_border=true" />
+
+</details>
+
+
 </details>
 
 [twitter]: https://twitter.com/KyranTT_TTG

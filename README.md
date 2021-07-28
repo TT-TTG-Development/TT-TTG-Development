@@ -1,7 +1,5 @@
 ### Hi there, I'm Kyran TT-TTG 👋
 
-[![Youtube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/channel/UCNEB1-mn65M_QiA6cLnBMBA)
-[![Twitter Follow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/KyranTT_TTG)
 
 ## ─────── Kyran TT-TTG ───────
 

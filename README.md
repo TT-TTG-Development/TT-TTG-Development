@@ -46,6 +46,13 @@
 
 
 </details>
+<sumary>:zap: Coding Languages</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+</details>
 
 [twitter]: https://twitter.com/KyranTT_TTG
 [youtube]: https://www.youtube.com/channel/UCNEB1-mn65M_QiA6cLnBMBA

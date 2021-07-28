@@ -51,10 +51,10 @@
 </details>
 
 </details>
-<summary></summary>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<summary>Pinned Repo</summary>
+<a href="https://github.com/TT-TTG-Development/Minecraft-Bedrock-Texture-Packs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TT-TTG-Development&repo=Minecraft-Bedrock-Texture-Packs&theme=dark" />
 </details>
   
 </details>

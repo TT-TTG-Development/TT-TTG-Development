@@ -46,16 +46,7 @@
 </details>
 
 </details>
-<summary>Pinned Repo</summary>
-<a href="https://github.com/TT-TTG-Development/Minecraft-Bedrock-Texture-Packs">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TT-TTG-Development&repo=Minecraft-Bedrock-Texture-Packs&theme=dark" />
-  <a href="https://github.com/TT-TTG-Development/Modmail-bot">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TT-TTG-Development&repo=Modmail-bot&theme=dark" />
-</details>
-  
-</details>
+
 
 [twitter]: https://twitter.com/KyranTT_TTG
 [youtube]: https://www.youtube.com/channel/UCNEB1-mn65M_QiA6cLnBMBA

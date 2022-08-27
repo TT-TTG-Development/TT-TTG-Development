@@ -1,4 +1,4 @@
-### ─────── Kyran TT-TTG ───────
+### ─────── KaaQeL ───────
 
 - I’m currently learning CSS
 - 2021 Goal: Finish my Discord bot
